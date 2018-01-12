@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31e3a16f-3a42-4548-93e9-b1fb13ae37e4" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Heartstone/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Heartstone/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Heartstone/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Heartstone/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Heartstone/riderModule.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Adapters/CardAdapter.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/AkavacheSqliteLinkerOverride.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Assets/AboutAssets.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/CardDetailActivity.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Heartstone.Droid.csproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/MainActivity.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/MainApplication.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Properties/AndroidManifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Properties/AssemblyInfo.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/AboutResources.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/Resource.designer.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/layout/CardDetailActivity.axml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/layout/CardListItem.axml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/layout/Main.axml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/mipmap-hdpi/Icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/mipmap-mdpi/Icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/mipmap-xhdpi/Icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/mipmap-xxhdpi/Icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/mipmap-xxxhdpi/Icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/values/Strings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/values/Styles.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/Resources/xml/network_security_config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Droid/packages.config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone.sln" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/AkavacheSqliteLinkerOverride.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/App.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/CardViewModel/CardSetViewModel.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/CardViewModel/CardViewModel.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/Heartstone.csproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/Models/Card.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/MyClass.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/Properties/AssemblyInfo.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/Rest/HeartstoneHttpClientHandler.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/Rest/HeartstoneRestService.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/Rest/Interfaces/IHeartstoneApi.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Heartstone/packages.config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/AppDelegate.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/Assets.xcassets/Contents.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/Entitlements.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/Heartstone.iOS.csproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/LaunchScreen.storyboard" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/Main.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/Main.storyboard" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/ViewController.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iOS/ViewController.designer.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CardDetailActivity.axml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droid/Resources/layout/CardDetailActivity.axml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardAdapter.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Droid/Adapters/CardAdapter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+              <folding>
+                <marker date="1515586794871" expanded="false" signature="6:397" ph="..." />
+                <marker date="1515586794871" expanded="true" signature="425:2158" ph="{...}" />
+                <marker date="1515586794871" expanded="true" signature="501:2156" ph="{...}" />
+                <marker date="1515586794871" expanded="true" signature="645:712" ph="{...}" />
+                <marker date="1515586794871" expanded="true" signature="812:1076" ph="{...}" />
+                <marker date="1515586794871" expanded="true" signature="1155:2150" ph="{...}" />
+                <marker date="1515586794871" expanded="true" signature="1421:2140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droid/MainActivity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+              <folding>
+                <marker date="1515586737174" expanded="false" signature="6:265" ph="..." />
+                <marker date="1515586737174" expanded="true" signature="293:2054" ph="{...}" />
+                <marker date="1515586737174" expanded="true" signature="487:2052" ph="{...}" />
+                <marker date="1515586737174" expanded="true" signature="703:1700" ph="{...}" />
+                <marker date="1515586737174" expanded="true" signature="1225:1568" ph="{...}" />
+                <marker date="1515586737174" expanded="true" signature="1744:1793" ph="{...}" />
+                <marker date="1515586737174" expanded="true" signature="1836:2046" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Droid/Adapters/CardAdapter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Droid/MainActivity.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Droid/Resources/layout/CardDetailActivity.axml" />
+        <option value="$PROJECT_DIR$/Droid/MainActivity.cs" />
+        <option value="$PROJECT_DIR$/Droid/Adapters/CardAdapter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="3008" />
+    <option name="height" value="1618" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Heartstone.Droid" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Heartstone.Droid" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Adapters" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Heartstone.Droid" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Heartstone.Droid" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Properties" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Heartstone.Droid" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Resources" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Heartstone.Droid" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Resources" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="layout" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Heartstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Heartstone.Droid" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Resources" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="xml" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="adapt&#9;null&#9;null" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.Android.Android Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Droid/Heartstone.Droid.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="DEFAULT_DEVICE_TO_RUN" value="" />
+      <option name="DEFAULT_EMULATOR_TO_RUN" value="" />
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <envs />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue="Xamarin.Android.Android Default" />
+      <item index="2" class="java.lang.String" itemvalue="Xamarin.iOS.iOS Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31e3a16f-3a42-4548-93e9-b1fb13ae37e4" name="Default" comment="" />
+      <created>1515584718326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515584718326</updated>
+      <workItem from="1515584721201" duration="929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="929000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="3008" height="1618" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296126" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3348654" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296126" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296126" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11800405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296126" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Droid/Resources/layout/CardDetailActivity.axml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <marker date="1515586737174" expanded="false" signature="6:265" ph="..." />
+            <marker date="1515586737174" expanded="true" signature="293:2054" ph="{...}" />
+            <marker date="1515586737174" expanded="true" signature="487:2052" ph="{...}" />
+            <marker date="1515586737174" expanded="true" signature="703:1700" ph="{...}" />
+            <marker date="1515586737174" expanded="true" signature="1225:1568" ph="{...}" />
+            <marker date="1515586737174" expanded="true" signature="1744:1793" ph="{...}" />
+            <marker date="1515586737174" expanded="true" signature="1836:2046" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/Adapters/CardAdapter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <marker date="1515586794871" expanded="false" signature="6:397" ph="..." />
+            <marker date="1515586794871" expanded="true" signature="425:2158" ph="{...}" />
+            <marker date="1515586794871" expanded="true" signature="501:2156" ph="{...}" />
+            <marker date="1515586794871" expanded="true" signature="645:712" ph="{...}" />
+            <marker date="1515586794871" expanded="true" signature="812:1076" ph="{...}" />
+            <marker date="1515586794871" expanded="true" signature="1155:2150" ph="{...}" />
+            <marker date="1515586794871" expanded="true" signature="1421:2140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

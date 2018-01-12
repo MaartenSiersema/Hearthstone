@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+    <FFImageLoading.Views.ImageViewAsync
+        android:id="@+id/CardImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:transitionName="@string/cardimage"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:id="@+id/TitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        tools:text="title" />
+    <TextView
+        android:id="@+id/CardTypeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        tools:text="CardType"
+        android:textSize="14sp" />
+    <TextView
+        android:id="@+id/CardDescriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        tools:text="Card Description"
+        android:textSize="14sp" />
+</LinearLayout>

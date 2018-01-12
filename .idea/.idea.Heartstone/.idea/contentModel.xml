@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Droid" t="IncludeRecursive">
+        <e p="Adapters" t="Include">
+          <e p="CardAdapter.cs" t="Include" />
+        </e>
+        <e p="AkavacheSqliteLinkerOverride.cs" t="Include" />
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CardDetailActivity.cs" t="Include" />
+        <e p="Heartstone.Droid.csproj" t="IncludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="MainApplication.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="layout" t="Include">
+            <e p="CardDetailActivity.axml" t="Include" />
+            <e p="CardListItem.axml" t="Include" />
+            <e p="Main.axml" t="Include" />
+          </e>
+          <e p="mipmap-hdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-mdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-xhdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-xxhdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-xxxhdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="Resource.designer.cs" t="Include" />
+          <e p="values" t="Include">
+            <e p="Strings.xml" t="Include" />
+            <e p="Styles.xml" t="Include" />
+          </e>
+          <e p="xml" t="Include">
+            <e p="network_security_config.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Heartstone" t="IncludeRecursive">
+        <e p="AkavacheSqliteLinkerOverride.cs" t="Include" />
+        <e p="App.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CardViewModel" t="Include">
+          <e p="CardSetViewModel.cs" t="Include" />
+          <e p="CardViewModel.cs" t="Include" />
+        </e>
+        <e p="Heartstone.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Card.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Rest" t="Include">
+          <e p="HeartstoneHttpClientHandler.cs" t="Include" />
+          <e p="HeartstoneRestService.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IHeartstoneApi.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Heartstone.sln" t="IncludeFlat" />
+      <e p="iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+          </e>
+          <e p="Contents.json" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="Heartstone.iOS.csproj" t="IncludeRecursive" />
+        <e p="Info.plist" t="Include" />
+        <e p="LaunchScreen.storyboard" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="Main.storyboard" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Resources" t="Include" />
+        <e p="ViewController.cs" t="Include" />
+        <e p="ViewController.designer.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="Xamarin.Android.Arch.Lifecycle.Runtime.1.0.0/proguard" t="Include">
+          <e p="proguard.txt" t="Include" />
+        </e>
+        <e p="Xamarin.Android.Support.Animated.Vector.Drawable.26.1.0.1/proguard" t="Include">
+          <e p="proguard.txt" t="Include" />
+        </e>
+        <e p="Xamarin.Android.Support.Core.UI.26.1.0.1/proguard" t="Include">
+          <e p="proguard.txt" t="Include" />
+        </e>
+        <e p="Xamarin.Android.Support.Media.Compat.26.1.0.1/proguard" t="Include">
+          <e p="proguard.txt" t="Include" />
+        </e>
+        <e p="Xamarin.Android.Support.v7.RecyclerView.26.1.0.1/proguard" t="Include">
+          <e p="proguard.txt" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_Heartstone.-1724037973.00" t="ExcludeRecursive" />
+  </component>
+</project>
