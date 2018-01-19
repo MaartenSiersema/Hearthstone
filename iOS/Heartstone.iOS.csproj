@@ -83,9 +83,9 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Heartstone\Heartstone.csproj">
-      <Project>{E9B53B66-560D-4082-AF79-89C26BA05A6F}</Project>
-      <Name>Heartstone</Name>
+    <ProjectReference Include="..\Heartstone.net\Heartstone.net.csproj">
+      <Project>{A4ABD463-1429-450D-AE1A-5D5B63D6CA2B}</Project>
+      <Name>Heartstone.net</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

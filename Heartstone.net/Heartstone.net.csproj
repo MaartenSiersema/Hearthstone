@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="akavache.sqlite3" Version="6.0.0-alpha0038" />
+    <PackageReference Include="ReactiveUI" Version="8.0.0-alpha0117" />
+    <PackageReference Include="Refit" Version="4.0.1" />
+    <PackageReference Include="Xamarin.FFImageLoading" Version="2.3.4" />
+    <PackageReference Include="Xamarin.FFImageLoading.Transformations" Version="2.2.25" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CardViewModel\" />
+    <Folder Include="Models\" />
+    <Folder Include="Rest\" />
+  </ItemGroup>
+</Project>
